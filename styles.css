@@ -1,0 +1,190 @@
+body{
+    position: relative;
+width: 1152px;
+height: 700px;
+
+background: #F8F3ED;
+    }
+    #img{position: absolute;
+        width: 561px;
+        height: 700px;
+        left: 591px;
+        top: 0px; }
+        h1{position: absolute;
+            
+            height: 64px;
+            left: 5.21%;
+            right: 61.37%;
+            top: calc(50% - 64px/2 - 98px);
+            font-family: 'Playfair Display', serif;
+            font-style: normal;
+            font-weight: bold;
+            font-size: 48px;
+            line-height: 64px;
+            color: #000000;}
+           h2{position: absolute;
+            
+            height: 50px;
+            left: 5.21%;
+            right: 66.93%;
+            top: calc(50% - 50px/2);
+            font-style: normal;
+            font-weight: normal;
+            font-size: 18px;
+            line-height: 25px;
+            color: #000000;
+            font-family: 'Nunito Sans', sans-serif;} 
+            
+            
+            
+            
+           
+                
+            h3{position: absolute;
+                height: 25px;
+                left: 5.21%;
+                right: 77.86%;
+                top: calc(50% - 25px/2 - 48.5px);
+                font-style: normal;
+                font-weight: 300;
+                font-size: 18px;
+                line-height: 25px;
+                color: #000000;
+                font-family: 'Nunito Sans', sans-serif;}
+                .vin{position: absolute;
+                    height: 14px;
+                    left: 5.21%;
+                    right: 87.69%;
+                    top: calc(50% - 14px/2 - 304px);
+                    color: #000000;
+                    font-size: 18px;
+                    }
+                    .law{position: absolute;
+                        font-size: 18px;
+                        height: 13.81px;
+                        left: 12.37%;
+                        right: 83.85%;
+                        top: calc(50% - 13.81px/2 - 304.06px);
+                        font-family: 'Playfair Display', serif;
+                        color:  #ADA9A7;}
+                        
+                        
+                    
+                            .s{position: absolute;
+                                margin-top: 26px;
+                                height: 14px;
+                                left: 70.31%;
+                                right: 25.78%;
+                                top: calc(50% - 14px/2 - 304px);
+                                
+                                 font-style: normal;
+                                 font-weight: normal;
+                                 font-size: 12px;
+                                 line-height: 14px;
+                                 /* identical to box height, or 117% */
+                                 
+                                 text-align: center;
+                                 
+                                 color: #FFFFFF;
+                                 font-family:'Nunito Sans', sans-serif;}
+                                
+                                
+                                
+                            
+                             .p{position: absolute;
+                                margin-top: 26px;
+                                height: 14px;
+                                left: 77%;
+                                right: 19.62%;
+                                top: calc(50% - 14px/2 - 304px);
+                                
+                               
+                                font-style: normal;
+                                font-weight: normal;
+                                font-size: 12px;
+                                line-height: 14px;
+                                /* identical to box height, or 117% */
+                                
+                                text-align: center;
+                                
+                                color: #FFFFFF;
+                                font-family: 'Nunito Sans', sans-serif;}
+                                
+                                 
+                                 .b{position: absolute;
+                                    margin-top: 26px;
+                                    height: 14px;
+                                    left: 83.07%;
+                                    right: 14.67%;
+                                    top: calc(50% - 14px/2 - 304px);
+                                    
+                                    font-family: Nunito Sans;
+                                    font-style: normal;
+                                    font-weight: normal;
+                                    font-size: 12px;
+                                    line-height: 14px;
+                                    /* identical to box height, or 117% */
+                                    font-family: 'Nunito Sans', sans-serif;
+                                    color: #FFFFFF;
+                                    text-align: center;
+                                }
+                                    
+                                    
+                                    
+                                    
+  
+                                               
+                                               .d{position: absolute;
+                                                margin-top: 30px;
+                                            
+                                                font-family: 'Nunito Sans', sans-serif;
+                                                
+                                                height: 26px;
+                                                left: 88.11%;
+                                                right: 5.21%;
+                                                top: 4.29%;
+                                                bottom: 91.14%;
+                                                
+                                              
+                                                font-style: normal;
+                                                font-weight: normal;
+                                                font-size: 12px;
+                                                line-height: 14px;
+                                                /* identical to box height, or 117% */
+                                                
+                                                display: flex;
+                                                align-items: center;
+                                                text-align: center;
+                                                
+                                                color: #FFFFFF;
+                                                
+                                                   background:     rgba(255, 255, 255, 0.2);
+                                                                                border: none;
+                                                    }
+                                                   nav{ flex: 1; } 
+                                                   nav ul li{ list-style: none;
+                                                       display: inline-block;}
+                                                       nav ul li a { text-decoration: none; color: #FFFFFF;}
+                                                   nav ul a  li .b .d   .p .s { text-decoration: none; color:  #FFFFFF;}
+                                                  
+                                                  
+                                                   .book{margin-top: 399px;
+                                                    margin-left: 60px   ;
+                                                    margin-bottom: 236px;
+                                                    margin-right: 945px;
+                                                       background-color: rgba(255, 255, 255, 0.2);
+                                                   width: 140px;
+                                                   height: 35px;
+                                                   left: 0px;
+                                                   top: 13px;
+                                                   background: #ADA9A7;
+                                                   
+                                                   border: aliceblue;
+                                                  line-height: 19px;
+                                                   font-size: 13px;
+                                                   border-radius: 0px;
+                                                  
+                                                   
+                                                   cursor: pointer;
+                                                   color: #000000;}
+                                   .book a {text-decoration: none; color: #000000; }
